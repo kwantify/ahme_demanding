@@ -1,0 +1,38 @@
+Variable	N	Mean (Assigned Albendazole)	Lower	Upper	N	Mean (Assigned Amoxicillin)	Lower	Upper	p-value
+Number of clients	       94	   466.86	  353.837	  579.889	       88	   525.27	  354.128	  696.417	    0.573
+Number of clients - data missing	      102	     0.08	    0.026	    0.131	       98	     0.10	    0.042	    0.162	    0.562
+Total revenues USD	       92	  4534.70	 2493.570	 6575.831	       85	  3621.63	 2106.293	 5136.966	    0.488
+Total profits USD	       91	  1487.57	  570.254	 2404.893	       83	 -2665.31	-8670.927	 3340.307	    0.163
+Total expenditures USD	       92	  3057.43	 1548.008	 4566.847	       85	  6175.33	 -831.085	13181.753	    0.378
+Facility is NHIF empaneled	       94	     0.30	    0.205	    0.391	       88	     0.32	    0.220	    0.416	    0.768
+Hours open per week	       94	   101.86	   91.765	  111.959	       88	    94.91	   85.009	  104.809	    0.337
+Average of hours open per day	       94	    14.85	   13.460	   16.243	       88	    14.12	   12.791	   15.453	    0.460
+Count of total staff	       95	     3.97	    3.297	    4.640	       88	     3.99	    3.377	    4.600	    0.965
+Count of clinical staff (doctors and nurses)	       95	     2.23	    1.813	    2.650	       88	     2.20	    1.856	    2.553	    0.923
+Count of clinical staff - data missing	      102	     0.07	    0.019	    0.118	       98	     0.10	    0.042	    0.162	    0.400
+Facility has community health workers	       94	     0.40	    0.305	    0.504	       88	     0.33	    0.231	    0.428	    0.299
+Number of clients per doctor	       85	   206.89	  165.860	  247.929	       84	   263.91	  195.789	  332.027	    0.161
+Facility provides any curative services	       94	     0.97	    0.932	    1.004	       88	     0.95	    0.911	    0.998	    0.637
+Antenatal care	       94	     0.69	    0.598	    0.785	       88	     0.68	    0.584	    0.780	    0.889
+Cervical cancer screening	       94	     0.49	    0.388	    0.591	       88	     0.48	    0.372	    0.582	    0.871
+Delivery	       94	     0.40	    0.305	    0.504	       88	     0.48	    0.372	    0.582	    0.324
+Dental services	       94	     0.16	    0.085	    0.234	       88	     0.17	    0.091	    0.249	    0.844
+Family Planning	       94	     0.98	    0.949	    1.008	       88	     0.99	    0.966	    1.011	    0.602
+HIV testing and counseling (HTC)	       94	     0.91	    0.858	    0.972	       88	     0.94	    0.895	    0.992	    0.462
+HIV treatment	       94	     0.11	    0.044	    0.169	       88	     0.14	    0.064	    0.208	    0.538
+Imaging services (X-ray, Ultrasound)	       94	     0.14	    0.068	    0.208	       88	     0.15	    0.073	    0.222	    0.857
+Immunizations visit	       94	     0.37	    0.274	    0.471	       88	     0.45	    0.350	    0.559	    0.263
+In-patient services	       94	     0.26	    0.167	    0.344	       88	     0.26	    0.169	    0.354	    0.926
+Laboratory services	       94	     0.93	    0.872	    0.979	       88	     0.92	    0.864	    0.977	    0.898
+Malaria testing / treatment	       94	     0.96	    0.916	    0.998	       88	     0.94	    0.895	    0.992	    0.659
+Optical services	       94	     0.09	    0.028	    0.142	       88	     0.10	    0.039	    0.166	    0.693
+Pharmacy services (i.e. this facility sells medicines directly to the public)	       94	     0.32	    0.224	    0.414	       88	     0.42	    0.317	    0.524	    0.158
+Post-natal care	       94	     0.55	    0.452	    0.654	       88	     0.58	    0.476	    0.683	    0.722
+Prevention of mother-to-child transmission (PMTCT)	       94	     0.50	    0.398	    0.602	       88	     0.44	    0.339	    0.548	    0.446
+Respiratory tract infections	       94	     0.98	    0.949	    1.008	       88	     1.00	    1.000	    1.000	    0.171
+Safe abortion	       94	     0.24	    0.157	    0.332	       88	     0.18	    0.101	    0.263	    0.304
+TB testing / treatment	       94	     0.21	    0.130	    0.296	       88	     0.24	    0.149	    0.328	    0.678
+Testing and treatment of STD	       94	     0.91	    0.858	    0.972	       88	     0.86	    0.792	    0.936	    0.272
+Voluntary male circumcision (VMMC)	       94	     0.69	    0.598	    0.785	       88	     0.67	    0.572	    0.769	    0.762
+Well-baby visit	       94	     0.62	    0.518	    0.716	       88	     0.62	    0.523	    0.727	    0.912
+Services - data missing	      102	     0.08	    0.026	    0.131	       98	     0.10	    0.042	    0.162	    0.562
